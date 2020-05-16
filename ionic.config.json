@@ -1,0 +1,7 @@
+{
+  "name": "OpenEICI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
